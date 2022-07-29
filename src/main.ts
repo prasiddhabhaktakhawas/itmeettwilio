@@ -11,4 +11,4 @@ app.use(router);
 
 app.mount("#app");
 
-// TODO: adding facial recognition.   q
+// TODO: adding facial recognition.  
